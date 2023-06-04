@@ -153,8 +153,6 @@ let msg = (login == 'Employee') ? 'Hello' :
 
 console.log(msg);
 
-
-
 // Moved this to the bottom because of strangeness with how it output stuff
 console.log('\n---Task 2---');
 const rl = readline.createInterface({
